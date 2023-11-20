@@ -40,6 +40,9 @@ Permet la création des dataframe '_norm_distribution.csv_' et '_size_distributi
 #### 04_generate_match.py
 Permet, à partir d'une séquence générée par '_generate_sequence.py_', de générer les normes associées aux labels. Ainsi on génére un match sous la forme attendue : '_match_created.json_'
 ***
+### Analyse des données :
+Tout ce qui concerne l'analyse des données et les réponses aux questions du pdf "... Data Scientist August 2023", se trouve dans "__notebooks__/analyses.ipynb"
+***
 ## Génération de match
 
 En executant le fichier '_f4_generate_match.py_' à l'aide de la commande suivante :
